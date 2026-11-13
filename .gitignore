@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.cache/
+.es-cache/
+.backup/
+**/__marimo__/
+*.xlsx
+.env

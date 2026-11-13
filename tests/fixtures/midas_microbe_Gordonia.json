@@ -1,0 +1,382 @@
+{
+ "name": "Gordonia",
+ "urlSafeName": "gordonia",
+ "metabolism": {
+  "Chemoautotroph/mixotroph": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "AOB": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "NOB": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Anammox": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Aerobic heterotroph": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1574-6941.2007.00324.x",
+      "pmID": "17466023",
+      "title": "Ecophysiology of mycolic acid-containing Actinobacteria (Mycolata) in activated sludge foams"
+     },
+     {
+      "doi": "10.2166/wst.2006.369",
+      "pmID": "16898135",
+      "title": "Substrate uptake by Gordonia amarae in activated sludge foams by FISH-MAR"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1472-765x.1994.tb00967.x",
+      "pmID": "7765703",
+      "title": "Transfer of Nocardia amarae Lechevalier and Lechevalier 1974 to the genus Gordona as Gordona amarae comb. nov"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "PAO": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "GAO": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Nitrite reduction": {
+   "In situ": {
+    "value": "Variable",
+    "pubMedCitations": [
+     {
+      "doi": "10.2166/wst.2006.369",
+      "pmID": "16898135",
+      "title": "Substrate uptake by Gordonia amarae in activated sludge foams by FISH-MAR"
+     },
+     {
+      "doi": "10.2166/wst.2006.369",
+      "pmID": "16898135",
+      "title": "Substrate uptake by Gordonia amarae in activated sludge foams by FISH-MAR"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Sulfate reduction": {
+   "In situ": {
+    "value": "Variable",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Fermentation": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Acetogen": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Methanogen": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Short-chain fatty acids": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1574-6941.2007.00324.x",
+      "pmID": "17466023",
+      "title": "Ecophysiology of mycolic acid-containing Actinobacteria (Mycolata) in activated sludge foams"
+     },
+     {
+      "doi": "10.2166/wst.2006.369",
+      "pmID": "16898135",
+      "title": "Substrate uptake by Gordonia amarae in activated sludge foams by FISH-MAR"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1472-765x.1994.tb00967.x",
+      "pmID": "7765703",
+      "title": "Transfer of Nocardia amarae Lechevalier and Lechevalier 1974 to the genus Gordona as Gordona amarae comb. nov"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Sugars": {
+   "In situ": {
+    "value": "Variable",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1574-6941.2007.00324.x",
+      "pmID": "17466023",
+      "title": "Ecophysiology of mycolic acid-containing Actinobacteria (Mycolata) in activated sludge foams"
+     },
+     {
+      "doi": "10.2166/wst.2006.369",
+      "pmID": "16898135",
+      "title": "Substrate uptake by Gordonia amarae in activated sludge foams by FISH-MAR"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1472-765x.1994.tb00967.x",
+      "pmID": "7765703",
+      "title": "Transfer of Nocardia amarae Lechevalier and Lechevalier 1974 to the genus Gordona as Gordona amarae comb. nov"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Proteins/amino acids": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1574-6941.2007.00324.x",
+      "pmID": "17466023",
+      "title": "Ecophysiology of mycolic acid-containing Actinobacteria (Mycolata) in activated sludge foams"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1472-765x.1994.tb00967.x",
+      "pmID": "7765703",
+      "title": "Transfer of Nocardia amarae Lechevalier and Lechevalier 1974 to the genus Gordona as Gordona amarae comb. nov"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  }
+ },
+ "properties": {
+  "Filamentous": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1574-6941.2007.00324.x",
+      "pmID": "17466023",
+      "title": "Ecophysiology of mycolic acid-containing Actinobacteria (Mycolata) in activated sludge foams"
+     },
+     {
+      "doi": "10.2166/wst.2006.369",
+      "pmID": "16898135",
+      "title": "Substrate uptake by Gordonia amarae in activated sludge foams by FISH-MAR"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Variable",
+    "pubMedCitations": [],
+    "standardCitations": [
+     {
+      "content": "__Holmstr\u00f8m, K. and Lawson, P. A.__ (2015). Subdoligranulum. In Bergey's Manual of Systematics of Archaea and Bacteria (eds W. B. Whitman, F. Rainey, P. K\u00e4mpfer, M. Trujillo, J. Chun, P. DeVos, B. Hedlund and S. Dedysh). doi:10.1002/9781118960608.gbm00680",
+      "_id": "69734fa7577b92b45b47c364"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Hydrophobic cell surface": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1111/j.1574-6941.2007.00324.x",
+      "pmID": "17466023",
+      "title": "Ecophysiology of mycolic acid-containing Actinobacteria (Mycolata) in activated sludge foams"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1016/j.watres.2010.12.026",
+      "pmID": "21239035",
+      "title": "An examination of the mechanisms for stable foam formation in activated sludge systems"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  }
+ }
+}

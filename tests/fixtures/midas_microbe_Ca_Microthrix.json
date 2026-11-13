@@ -1,0 +1,461 @@
+{
+ "name": "Ca Microthrix",
+ "urlSafeName": "ca_microthrix",
+ "metabolism": {
+  "Chemoautotroph/mixotroph": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.71.2.646-655.2005",
+      "pmID": "15691913",
+      "title": "Isotope labeling and microautoradiography of active heterotrophic bacteria on the basis of assimilation of 14CO(2)"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "AOB": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.71.2.646-655.2005",
+      "pmID": "15691913",
+      "title": "Isotope labeling and microautoradiography of active heterotrophic bacteria on the basis of assimilation of 14CO(2)"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "NOB": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Anammox": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Aerobic heterotroph": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [],
+    "standardCitations": [
+     {
+      "content": "Andreasen K, Nielsen PH (2000) Growth of Microthrix parvicella in nutrient removal activated sludge plants: studies of in situ physiology. Water Res. 34(5): 1559-1569",
+      "_id": "6a437d22f1125661ab17ebac"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1099/00207713-46-1-344",
+      "pmID": "8573518",
+      "title": "&quot;Candidatus Microthrix parvicella&quot;, a filamentous bacterium from activated sludge sewage treatment plants"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "__Pikuta, E. V., Hoover, R.B.__(2014) The genus Trichococcus. In: Holzapfel, W.H., Wood, B.J.B. (eds.). Lactic Acid Bacteria: Biodiversity and Taxonomy. John Wiley & Sons, Ltd, Chichester, UK, pp. 135\u2013145.",
+      "_id": "6a437d22f1125661ab17ebae"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "PAO": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [],
+    "standardCitations": [
+     {
+      "content": "Andreasen K, Nielsen PH (2000) Growth of Microthrix parvicella in nutrient removal activated sludge plants: studies of in situ physiology. Water Res. 34(5): 1559-1569",
+      "_id": "6a437d22f1125661ab17ebaf"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "GAO": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Nitrite reduction": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.71.2.646-655.2005",
+      "pmID": "15691913",
+      "title": "Isotope labeling and microautoradiography of active heterotrophic bacteria on the basis of assimilation of 14CO(2)"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Andreasen K, Nielsen PH (2000) Growth of Microthrix parvicella in nutrient removal activated sludge plants: studies of in situ physiology. Water Res. 34(5): 1559-1569",
+      "_id": "6a437d22f1125661ab17ebb3"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Variable",
+    "pubMedCitations": [
+     {
+      "doi": "",
+      "pmID": "12216690",
+      "title": "&quot;Microthrix parvicella&quot;: a new approach for kinetic and physiological characterization"
+     },
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "__Pikuta, E. V., Hoover, R.B.__(2014) The genus Trichococcus. In: Holzapfel, W.H., Wood, B.J.B. (eds.). Lactic Acid Bacteria: Biodiversity and Taxonomy. John Wiley & Sons, Ltd, Chichester, UK, pp. 135\u2013145.",
+      "_id": "6a437d22f1125661ab17ebb6"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Sulfate reduction": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Fermentation": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [],
+    "standardCitations": [
+     {
+      "content": "Andreasen K, Nielsen PH (2000) Growth of Microthrix parvicella in nutrient removal activated sludge plants: studies of in situ physiology. Water Res. 34(5): 1559-1569",
+      "_id": "6a437d22f1125661ab17ebb8"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "__Pikuta, E. V., Hoover, R.B.__(2014) The genus Trichococcus. In: Holzapfel, W.H., Wood, B.J.B. (eds.). Lactic Acid Bacteria: Biodiversity and Taxonomy. John Wiley & Sons, Ltd, Chichester, UK, pp. 135\u2013145.",
+      "_id": "6a437d22f1125661ab17ebba"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Acetogen": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Methanogen": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Short-chain fatty acids": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/aem.63.9.3662-3668.1997",
+      "pmID": "16535697",
+      "title": "Application of microautoradiography to the study of substrate uptake by filamentous microorganisms in activated sludge"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1038/ismej.2013.6",
+      "pmID": "23446830",
+      "title": "Metabolic model for the filamentous &#39;Candidatus Microthrix parvicella&#39; based on genomic and metagenomic analyses"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Sugars": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/aem.63.9.3662-3668.1997",
+      "pmID": "16535697",
+      "title": "Application of microautoradiography to the study of substrate uptake by filamentous microorganisms in activated sludge"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [],
+    "standardCitations": [
+     {
+      "content": "__Pikuta, E. V., Hoover, R.B.__(2014) The genus Trichococcus. In: Holzapfel, W.H., Wood, B.J.B. (eds.). Lactic Acid Bacteria: Biodiversity and Taxonomy. John Wiley & Sons, Ltd, Chichester, UK, pp. 135\u2013145.",
+      "_id": "6a437d22f1125661ab17ebbf"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Proteins/amino acids": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/aem.63.9.3662-3668.1997",
+      "pmID": "16535697",
+      "title": "Application of microautoradiography to the study of substrate uptake by filamentous microorganisms in activated sludge"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Variable",
+    "pubMedCitations": [],
+    "standardCitations": [
+     {
+      "content": "__Pikuta, E. V., Hoover, R.B.__(2014) The genus Trichococcus. In: Holzapfel, W.H., Wood, B.J.B. (eds.). Lactic Acid Bacteria: Biodiversity and Taxonomy. John Wiley & Sons, Ltd, Chichester, UK, pp. 135\u2013145.",
+      "_id": "6a437d22f1125661ab17ebc1"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  }
+ },
+ "properties": {
+  "Filamentous": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1016/j.femsre.2004.09.005",
+      "pmID": "15652975",
+      "title": "&quot;Microthrix parvicella&quot;, a filamentous bacterium causing bulking and foaming in activated sludge systems: a review of current knowledge"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Nielsen PH, Daims H, and Lemmer, H (2009) FISH Handbook for Biological Wastewater Treatment: Identification and quantification of microorganisms in activated sludge and biofilms by FISH. IWA Publishing Company",
+      "_id": "6a437d22f1125661ab17ebc3"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1016/j.femsre.2004.09.005",
+      "pmID": "15652975",
+      "title": "&quot;Microthrix parvicella&quot;, a filamentous bacterium causing bulking and foaming in activated sludge systems: a review of current knowledge"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Hydrophobic cell surface": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "",
+      "pmID": "12216691",
+      "title": "Microthrix parvicella, a specialized lipid consumer in anaerobic-aerobic activated sludge plants"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+T01102	gbr; Gordonia bronchialis DSM 43247
+T01719	gpo; Gordonia polyisoprenivorans VH2
+T02216	gor; Gordonia sp. KTR9
+T04097	goq; Gordonia phthalatica QH-11
+T04440	gta; Gordonia terrae 3612
+T05256	goc; Gordonia sp. YC-JH1
+T05370	git; Gordonia iterans Co17
+T05629	gru; Gordonia rubripertincta CWB2
+T05722	gom; Gordonia insulae MMS17-SY073
+T05876	gav; Gordonia alkanivorans YC-RL2
+T06305	god; Gordonia sp. 135
+T07320	gam; Gordonia amarae BEN372
+T07482	gpd; Gordonia pseudamarae BEN371 (Gordonia pseudoamarae BEN371)
+T07538	gji; Gordonia jinghuaiqii zg-686
+T07915	goi; Gordonia otitidis FDAARGOS_1600
+T08182	ghn; Gordonia hongkongensis JCM 31934
+T08222	gami; Gordonia amicalis CEGA1
+T08472	gmg; Gordonia mangrovi HNM0687
+T08682	rgor; Rhodococcus gordoniae DND3
+T08972	gsi; Gordonia sihwensis RL-BY03
+T10225	gos; Gordonia sp. SMJS1
+T10304	goj; Gordonia sp. JH63
+T10819	goo; Gordonia sp. X0973
+T10835	gop; Gordonia sp. PS3
+T11308	gon; Gordonia sp. NB41Y
+T11854	gabs; Gordonia abscondita MP11Mi

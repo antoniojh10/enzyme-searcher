@@ -1,0 +1,44 @@
+# One genus per line. Lines "# Name" define the group shown in the notebook.
+# Actinomycetota
+Phycicoccus
+Tetrasphaera
+Gordonia
+Ca. Microthrix
+Micropruina
+Streptomyces
+# Bacteroidota y otros filamentosos
+Flavobacterium
+Chryseobacterium
+Kouleothrix
+Trichococcus
+Haliangium
+# Nitrificantes y Planctomycetota
+Nitrospira
+Gemmata
+Pirellula
+Planctomyces
+Ca. Anammoximicrobium
+Ca. Nitrotoga
+Nitrosomonas
+# Alphaproteobacteria
+Brevundimonas
+Rhizobium
+Novosphingobium
+# Betaproteobacteria
+Acidovorax
+Hydrogenophaga
+Ottowia
+Dechloromonas
+Sulfuritalea
+Leptothrix
+Sphaerotilus
+Zoogloea
+# Gammaproteobacteria
+Acinetobacter
+Pseudomonas
+Dokdonella
+Dyella
+Rhodanobacter
+Thiothrix
+# Spirochaetota
+Turneriella

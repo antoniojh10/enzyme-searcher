@@ -1,0 +1,659 @@
+[
+ {
+  "General": {
+   "@ref": 62681,
+   "BacDive-ID": 156420,
+   "keywords": [
+    "Bacteria",
+    "microaerophile"
+   ],
+   "description": "Gordonia terrae CCUG 61661 is a microaerophile bacterium that was isolated from Human eye,54-yr-old woman.",
+   "NCBI tax id": {
+    "NCBI tax id": 2055,
+    "Matching level": "species"
+   },
+   "doi": "10.13145/bacdive156420.20260601.11"
+  },
+  "Name and taxonomic classification": {
+   "LPSN": {
+    "@ref": 20215,
+    "description": "domain/bacteria",
+    "keyword": "phylum/actinomycetota",
+    "domain": "Bacteria",
+    "phylum": "Actinomycetota",
+    "class": "Actinomycetes",
+    "order": "Mycobacteriales",
+    "family": "Gordoniaceae",
+    "genus": "Gordonia",
+    "species": "Gordonia terrae",
+    "full scientific name": "<I>Gordonia</I> <I>terrae</I> corrig. (Tsukamura 1971) Stackebrandt et al. 1989",
+    "synonyms": [
+     {
+      "@ref": 20215,
+      "synonym": "Gordona terrae"
+     },
+     {
+      "@ref": 20215,
+      "synonym": "Rhodococcus terrae"
+     }
+    ]
+   },
+   "@ref": 62681,
+   "domain": "Bacteria",
+   "phylum": "Actinobacteria",
+   "class": "Actinobacteria",
+   "order": "Mycobacteriales",
+   "family": "Gordoniaceae",
+   "genus": "Gordonia",
+   "species": "Gordonia terrae",
+   "type strain": "no"
+  },
+  "Morphology": {},
+  "Culture and growth conditions": {
+   "culture temp": {
+    "@ref": 62681,
+    "growth": "positive",
+    "type": "growth",
+    "temperature": "37"
+   }
+  },
+  "Physiology and metabolism": {
+   "oxygen tolerance": {
+    "@ref": 62681,
+    "oxygen tolerance": "microaerophile"
+   },
+   "metabolite utilization": [
+    {
+     "@ref": 68379,
+     "Chebi-ID": 28087,
+     "metabolite": "glycogen",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 17632,
+     "metabolite": "nitrate",
+     "utilization activity": "+",
+     "kind of utilization tested": "reduction"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 4853,
+     "metabolite": "esculin",
+     "utilization activity": "+",
+     "kind of utilization tested": "hydrolysis"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 16199,
+     "metabolite": "urea",
+     "utilization activity": "+",
+     "kind of utilization tested": "hydrolysis"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 5291,
+     "metabolite": "gelatin",
+     "utilization activity": "-",
+     "kind of utilization tested": "hydrolysis"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 17634,
+     "metabolite": "D-glucose",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 16988,
+     "metabolite": "D-ribose",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 65327,
+     "metabolite": "D-xylose",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 16899,
+     "metabolite": "D-mannitol",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 17306,
+     "metabolite": "maltose",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 17716,
+     "metabolite": "lactose",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    },
+    {
+     "@ref": 68379,
+     "Chebi-ID": 17992,
+     "metabolite": "sucrose",
+     "utilization activity": "-",
+     "kind of utilization tested": "fermentation"
+    }
+   ],
+   "enzymes": [
+    {
+     "@ref": 68382,
+     "value": "alpha-fucosidase",
+     "activity": "-",
+     "ec": "3.2.1.51"
+    },
+    {
+     "@ref": 68382,
+     "value": "alpha-mannosidase",
+     "activity": "-",
+     "ec": "3.2.1.24"
+    },
+    {
+     "@ref": 68382,
+     "value": "N-acetyl-beta-glucosaminidase",
+     "activity": "-",
+     "ec": "3.2.1.52"
+    },
+    {
+     "@ref": 68382,
+     "value": "alpha-glucosidase",
+     "activity": "+",
+     "ec": "3.2.1.20"
+    },
+    {
+     "@ref": 68382,
+     "value": "beta-glucosidase",
+     "activity": "+",
+     "ec": "3.2.1.21"
+    },
+    {
+     "@ref": 68382,
+     "value": "beta-glucuronidase",
+     "activity": "-",
+     "ec": "3.2.1.31"
+    },
+    {
+     "@ref": 68382,
+     "value": "beta-galactosidase",
+     "activity": "-",
+     "ec": "3.2.1.23"
+    },
+    {
+     "@ref": 68382,
+     "value": "alpha-galactosidase",
+     "activity": "-",
+     "ec": "3.2.1.22"
+    },
+    {
+     "@ref": 68382,
+     "value": "naphthol-AS-BI-phosphohydrolase",
+     "activity": "+"
+    },
+    {
+     "@ref": 68382,
+     "value": "acid phosphatase",
+     "activity": "+",
+     "ec": "3.1.3.2"
+    },
+    {
+     "@ref": 68382,
+     "value": "alpha-chymotrypsin",
+     "activity": "-",
+     "ec": "3.4.21.1"
+    },
+    {
+     "@ref": 68382,
+     "value": "cystine arylamidase",
+     "activity": "-",
+     "ec": "3.4.11.3"
+    },
+    {
+     "@ref": 68382,
+     "value": "valine arylamidase",
+     "activity": "-"
+    },
+    {
+     "@ref": 68382,
+     "value": "leucine arylamidase",
+     "activity": "+",
+     "ec": "3.4.11.1"
+    },
+    {
+     "@ref": 68382,
+     "value": "lipase (C 14)",
+     "activity": "-"
+    },
+    {
+     "@ref": 68382,
+     "value": "esterase lipase (C 8)",
+     "activity": "+"
+    },
+    {
+     "@ref": 68382,
+     "value": "esterase (C 4)",
+     "activity": "+"
+    },
+    {
+     "@ref": 68382,
+     "value": "alkaline phosphatase",
+     "activity": "+",
+     "ec": "3.1.3.1"
+    },
+    {
+     "@ref": 68379,
+     "value": "catalase",
+     "activity": "+",
+     "ec": "1.11.1.6"
+    },
+    {
+     "@ref": 68379,
+     "value": "gelatinase",
+     "activity": "-"
+    },
+    {
+     "@ref": 68379,
+     "value": "N-acetyl-beta-glucosaminidase",
+     "activity": "-",
+     "ec": "3.2.1.52"
+    },
+    {
+     "@ref": 68379,
+     "value": "beta-glucosidase",
+     "activity": "+",
+     "ec": "3.2.1.21"
+    },
+    {
+     "@ref": 68379,
+     "value": "beta-glucuronidase",
+     "activity": "-",
+     "ec": "3.2.1.31"
+    },
+    {
+     "@ref": 68379,
+     "value": "beta-galactosidase",
+     "activity": "-",
+     "ec": "3.2.1.23"
+    },
+    {
+     "@ref": 68379,
+     "value": "alpha-glucosidase",
+     "activity": "+",
+     "ec": "3.2.1.20"
+    },
+    {
+     "@ref": 68379,
+     "value": "pyrazinamidase",
+     "activity": "-",
+     "ec": "3.5.1.B15"
+    },
+    {
+     "@ref": 68379,
+     "value": "urease",
+     "activity": "+",
+     "ec": "3.5.1.5"
+    },
+    {
+     "@ref": 68379,
+     "value": "pyrrolidonyl arylamidase",
+     "activity": "-",
+     "ec": "3.4.19.3"
+    },
+    {
+     "@ref": 68379,
+     "value": "alkaline phosphatase",
+     "activity": "+",
+     "ec": "3.1.3.1"
+    },
+    {
+     "@ref": 68382,
+     "value": "trypsin",
+     "activity": "-",
+     "ec": "3.4.21.4"
+    }
+   ],
+   "fatty acid profile": {
+    "fatty acids": [
+     {
+      "@ref": 62681,
+      "fatty acid": "C14:0",
+      "percentage": 2.7,
+      "ECL": 14
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "C16:0",
+      "percentage": 30.6,
+      "ECL": 16
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "C18:0",
+      "percentage": 1.9,
+      "ECL": 18
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "C16:0 anteiso",
+      "percentage": 0.9,
+      "ECL": 15.717
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "C16:1 &omega;7c/C15:0 ISO 2OH",
+      "percentage": 23.4,
+      "ECL": 15.85
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "C18:1 &omega;9c",
+      "percentage": 22.1,
+      "ECL": 17.769
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "C18:2 &omega;6,9c/C18:0 ANTE",
+      "percentage": 6,
+      "ECL": 17.724
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "C20:2 &omega;6,9c",
+      "percentage": 1.7,
+      "ECL": 19.735
+     },
+     {
+      "@ref": 62681,
+      "fatty acid": "TBSA 10Me18:0",
+      "percentage": 10.7,
+      "ECL": 18.392
+     }
+    ],
+    "type of FA analysis": "whole cell analysis",
+    "method/protocol": "CCUG"
+   },
+   "API coryne": {
+    "@ref": 62681,
+    "NIT": "+",
+    "PYZ": "-",
+    "PYRA": "-",
+    "PAL": "+",
+    "beta GUR": "-",
+    "beta GAL": "-",
+    "alpha GLU": "+",
+    "beta NAG": "-",
+    "ESC": "+",
+    "URE": "+",
+    "GEL": "-",
+    "Control": "-",
+    "GLU": "-",
+    "RIB": "-",
+    "XYL": "-",
+    "MAN": "-",
+    "MAL": "-",
+    "LAC": "-",
+    "SAC": "-",
+    "GLYG": "-",
+    "CAT": "+"
+   },
+   "API zym": {
+    "@ref": 62681,
+    "Control": "-",
+    "Alkaline phosphatase": "+",
+    "Esterase": "+",
+    "Esterase Lipase": "+",
+    "Lipase": "-",
+    "Leucine arylamidase": "+",
+    "Valine arylamidase": "-",
+    "Cystine arylamidase": "-",
+    "Trypsin": "-",
+    "alpha- Chymotrypsin": "-",
+    "Acid phosphatase": "+",
+    "Naphthol-AS-BI-phosphohydrolase": "+",
+    "alpha- Galactosidase": "-",
+    "beta- Galactosidase": "-",
+    "beta- Glucuronidase": "-",
+    "alpha- Glucosidase": "+",
+    "beta- Glucosidase": "+",
+    "N-acetyl-beta- glucosaminidase": "-",
+    "alpha- Mannosidase": "-",
+    "alpha- Fucosidase": "-"
+   }
+  },
+  "Isolation, sampling and environmental information": {
+   "isolation": {
+    "@ref": 62681,
+    "sample type": "Human eye,54-yr-old woman",
+    "host species": "Homo sapiens",
+    "sampling date": "2011-09-01",
+    "geographic location": "G\u00f6teborg",
+    "country": "Sweden",
+    "origin.country": "SWE",
+    "continent": "Europe"
+   },
+   "isolation source categories": [
+    {
+     "Cat1": "#Host",
+     "Cat2": "#Human",
+     "Cat3": "#Female"
+    },
+    {
+     "Cat1": "#Host Body-Site",
+     "Cat2": "#Organ",
+     "Cat3": "#Eye"
+    },
+    {
+     "Cat1": "#Infection",
+     "Cat2": "#Patient"
+    }
+   ]
+  },
+  "Interaction and safety": {},
+  "Sequence information": {},
+  "Genome-based predictions": {},
+  "Literature": {
+   "@ref": 62681,
+   "culture collection no.": "CCUG 61661",
+   "straininfo link": {
+    "@ref": 126262,
+    "straininfo": 408926
+   }
+  },
+  "Reference": [
+   {
+    "@id": 20215,
+    "authors": "Parte, A.C., Sard\u00e0 Carbasse, J., Meier-Kolthoff, J.P., Reimer, L.C. and G\u00f6ker, M.",
+    "title": "List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ",
+    "doi/url": "10.1099/ijsem.0.004332"
+   },
+   {
+    "@id": 62681,
+    "authors": "Curators of the CCUG",
+    "catalogue": "Culture Collection University of Gothenburg (CCUG) (CCUG 61661)",
+    "doi/url": "https://www.ccug.se/strain?id=61661"
+   },
+   {
+    "@id": 68379,
+    "title": "Automatically annotated from API Coryne"
+   },
+   {
+    "@id": 68382,
+    "title": "Automatically annotated from API zym"
+   },
+   {
+    "@id": 126262,
+    "authors": "A. Lissin, I. Schober, J. F. Witte, H. L\u00fcken, A. Podstawka, J. Koblitz, B. Bunk, P. Dawyndt, P. Vandamme, P. de Vos, J. Overmann, L. C. Reimer",
+    "title": "StrainInfo\u2014the central database for linked microbial strain identifiers",
+    "doi/url": "10.1093/database/baaf059"
+   }
+  ]
+ },
+ {
+  "General": {
+   "@ref": 10966,
+   "BacDive-ID": 10543,
+   "DSM-Number": 43341,
+   "keywords": "Bacteria",
+   "description": "Gordonia bronchialis 3411 is a bacterium that was isolated from sputum, pulmonary lesion.",
+   "NCBI tax id": {
+    "NCBI tax id": 2054,
+    "Matching level": "species"
+   },
+   "strain history": {
+    "@ref": 10966,
+    "history": "DSMZ <- M. Goodfellow, N 661 <- H. Mordarska, T2 <- M. Tsukamura, 3411 (<I>Gordona bronchialis</I>)"
+   },
+   "doi": "10.13145/bacdive10543.20260601.11"
+  },
+  "Name and taxonomic classification": {
+   "LPSN": {
+    "@ref": 20215,
+    "description": "domain/bacteria",
+    "keyword": "phylum/actinomycetota",
+    "domain": "Bacteria",
+    "phylum": "Actinomycetota",
+    "class": "Actinomycetes",
+    "order": "Mycobacteriales",
+    "family": "Gordoniaceae",
+    "genus": "Gordonia",
+    "species": "Gordonia bronchialis",
+    "full scientific name": "<I>Gordonia</I> <I>bronchialis</I> corrig. (Tsukamura 1971) Stackebrandt et al. 1989",
+    "synonyms": [
+     {
+      "@ref": 20215,
+      "synonym": "Rhodococcus bronchialis"
+     },
+     {
+      "@ref": 20215,
+      "synonym": "Gordona bronchialis"
+     }
+    ]
+   },
+   "@ref": 10966,
+   "domain": "Bacteria",
+   "phylum": "Actinobacteria",
+   "class": "Actinobacteria",
+   "order": "Actinomycetales",
+   "family": "Gordoniaceae",
+   "genus": "Gordonia",
+   "species": "Gordonia bronchialis",
+   "full scientific name": "Gordonia bronchialis (Tsukamura 1971) Stackebrandt et al. 1989 emend. Nouioui et al. 2018",
+   "strain designation": "3411, N 661, T2",
+   "type strain": "no"
+  },
+  "Morphology": {},
+  "Culture and growth conditions": {},
+  "Physiology and metabolism": {},
+  "Isolation, sampling and environmental information": {
+   "isolation": {
+    "@ref": 10966,
+    "sample type": "sputum, pulmonary lesion"
+   },
+   "isolation source categories": [
+    {
+     "Cat1": "#Host Body-Site",
+     "Cat2": "#Oral cavity and airways",
+     "Cat3": "#Airways"
+    },
+    {
+     "Cat1": "#Host Body-Site",
+     "Cat2": "#Other",
+     "Cat3": "#Wound"
+    },
+    {
+     "Cat1": "#Host Body Product",
+     "Cat2": "#Fluids",
+     "Cat3": "#Sputum"
+    }
+   ]
+  },
+  "Interaction and safety": {
+   "risk assessment": {
+    "@ref": 10966,
+    "biosafety level": "2",
+    "biosafety level comment": "Risk group (German classification)"
+   }
+  },
+  "Sequence information": {
+   "Genome sequences": [
+    {
+     "@ref": 66792,
+     "description": "Tsukamurella paurometabola strain FDAARGOS_1558",
+     "assembly level": "complete",
+     "BV-BRC accession": "2061.11",
+     "NCBI tax ID": 2061,
+     "score": 98.97
+    },
+    {
+     "@ref": 66792,
+     "description": "ASM2073584v1 assembly for Tsukamurella paurometabola FDAARGOS_1558",
+     "assembly level": "complete",
+     "INSDC accession": "GCA_020735845",
+     "BV-BRC accession": "2061.10",
+     "IMG accession": "8075547067",
+     "NCBI tax ID": 2061,
+     "score": 99.33
+    }
+   ]
+  },
+  "Genome-based predictions": {},
+  "Literature": {
+   "@ref": 10966,
+   "culture collection no.": "DSM 43341",
+   "straininfo link": {
+    "@ref": 126262,
+    "straininfo": 50245
+   }
+  },
+  "Reference": [
+   {
+    "@id": 10966,
+    "authors": "Curators of the DSMZ",
+    "catalogue": "Leibniz Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH (DSM 43341)",
+    "doi/url": "https://www.dsmz.de/collection/catalogue/details/culture/DSM-43341"
+   },
+   {
+    "@id": 20215,
+    "authors": "Parte, A.C., Sard\u00e0 Carbasse, J., Meier-Kolthoff, J.P., Reimer, L.C. and G\u00f6ker, M.",
+    "title": "List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ",
+    "doi/url": "10.1099/ijsem.0.004332"
+   },
+   {
+    "@id": 66792,
+    "authors": "Julia Koblitz, Joaquim Sard\u00e0, Lorenz Christian Reimer, Boyke Bunk, J\u00f6rg Overmann",
+    "title": "Automatically annotated for the DiASPora project (Digital Approaches for the Synthesis of Poorly Accessible Biodiversity Information)",
+    "doi/url": "https://diaspora-project.de/progress.html#genomes"
+   },
+   {
+    "@id": 125438,
+    "authors": "Julia Koblitz, Lorenz Christian Reimer, R\u00fcdiger Pukall, J\u00f6rg Overmann",
+    "title": "Predicting bacterial phenotypic traits through improved machine learning using high-quality, curated datasets",
+    "doi/url": "10.1101/2024.08.12.607695"
+   },
+   {
+    "@id": 125439,
+    "authors": "Philipp M\u00fcnch, Ren\u00e9 Mreches, Martin Binder, H\u00fcseyin Anil G\u00fcnd\u00fcz, Xiao-Yin To, Alice McHardy",
+    "title": "deepG: Deep Learning for Genome Sequence Data. R package version 0.3.1",
+    "doi/url": "https://github.com/GenomeNet/deepG"
+   },
+   {
+    "@id": 126262,
+    "authors": "A. Lissin, I. Schober, J. F. Witte, H. L\u00fcken, A. Podstawka, J. Koblitz, B. Bunk, P. Dawyndt, P. Vandamme, P. de Vos, J. Overmann, L. C. Reimer",
+    "title": "StrainInfo\u2014the central database for linked microbial strain identifiers",
+    "doi/url": "10.1093/database/baaf059"
+   }
+  ]
+ }
+]

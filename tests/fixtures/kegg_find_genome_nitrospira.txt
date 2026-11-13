@@ -1,0 +1,9 @@
+T01281	nde; Nitrospira defluvii
+T04041	nmv; Nitrospira moscoviensis NSP M-1
+T04169	nio; Candidatus Nitrospira inopinata
+T05001	nja; Nitrospira japonica NJ1
+T08052	nkf; Candidatus Nitrospira kreftii
+T08344	nif; Nitrospira sp. KM1
+T09383	nti; Nitrospira tepida DNF
+T09427	nall; Candidatus Nitrospira allomarina VA
+T09428	nneo; Candidatus Nitrospira neomarina DK

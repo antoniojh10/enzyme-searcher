@@ -1,0 +1,463 @@
+{
+ "name": "Nitrospira",
+ "urlSafeName": "nitrospira",
+ "metabolism": {
+  "Chemoautotroph/mixotroph": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.67.11.5273-5284.2001",
+      "pmID": "11679356",
+      "title": "In situ characterization of Nitrospira-like nitrite-oxidizing bacteria active in wastewater treatment plants"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1099/ijs.0.65379-0",
+      "pmID": "18175716",
+      "title": "Physiological and phylogenetic characterization of a novel lithoautotrophic nitrite-oxidizing bacterium, &#39;Candidatus Nitrospira bockiana&#39;"
+     },
+     {
+      "doi": "10.1111/j.1574-6941.2010.01006.x",
+      "pmID": "21138449",
+      "title": "Isolation and characterization of a moderately thermophilic nitrite-oxidizing bacterium from a geothermal spring"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Watson, S.W., Bock, E., Valois, F.W., Waterbury, J.B., Schlosser, U. (1986) Nitrospira marina gen. Nov. Sp. Nov.: a chemolithotrophic nitrite-oxidising bacterium. Arch. Microbiol. 144: 1-7",
+      "_id": "69734f98577b92b45b47c151"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "AOB": {
+   "In situ": {
+    "value": "Variable",
+    "pubMedCitations": [
+     {
+      "doi": "10.1016/j.watres.2023.119931",
+      "pmID": "37045640",
+      "title": "Ubiquitous occurrence and functional dominance of comammox Nitrospira in full-scale wastewater treatment plants"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Variable",
+    "pubMedCitations": [
+     {
+      "doi": "10.1073/pnas.1003860107",
+      "pmID": "20624973",
+      "title": "A Nitrospira metagenome illuminates the physiology and evolution of globally important nitrite-oxidizing bacteria"
+     },
+     {
+      "doi": "10.1038/nature16461",
+      "pmID": "26610024",
+      "title": "Complete nitrification by Nitrospira bacteria"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "NOB": {
+   "In situ": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.67.11.5273-5284.2001",
+      "pmID": "11679356",
+      "title": "In situ characterization of Nitrospira-like nitrite-oxidizing bacteria active in wastewater treatment plants"
+     },
+     {
+      "doi": "10.1111/j.1462-2920.2005.00826.x",
+      "pmID": "16104862",
+      "title": "In situ substrate conversion and assimilation by nitrifying bacteria in a model biofilm"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1099/ijs.0.65379-0",
+      "pmID": "18175716",
+      "title": "Physiological and phylogenetic characterization of a novel lithoautotrophic nitrite-oxidizing bacterium, &#39;Candidatus Nitrospira bockiana&#39;"
+     },
+     {
+      "doi": "10.1111/j.1574-6941.2010.01006.x",
+      "pmID": "21138449",
+      "title": "Isolation and characterization of a moderately thermophilic nitrite-oxidizing bacterium from a geothermal spring"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Watson, S.W., Bock, E., Valois, F.W., Waterbury, J.B., Schlosser, U. (1986) Nitrospira marina gen. Nov. Sp. Nov.: a chemolithotrophic nitrite-oxidising bacterium. Arch. Microbiol. 144: 1-7",
+      "_id": "69734f98577b92b45b47c15c"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Anammox": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1073/pnas.1003860107",
+      "pmID": "20624973",
+      "title": "A Nitrospira metagenome illuminates the physiology and evolution of globally important nitrite-oxidizing bacteria"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Aerobic heterotroph": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1099/ijs.0.65379-0",
+      "pmID": "18175716",
+      "title": "Physiological and phylogenetic characterization of a novel lithoautotrophic nitrite-oxidizing bacterium, &#39;Candidatus Nitrospira bockiana&#39;"
+     },
+     {
+      "doi": "10.1111/j.1574-6941.2010.01006.x",
+      "pmID": "21138449",
+      "title": "Isolation and characterization of a moderately thermophilic nitrite-oxidizing bacterium from a geothermal spring"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Watson, S.W., Bock, E., Valois, F.W., Waterbury, J.B., Schlosser, U. (1986) Nitrospira marina gen. Nov. Sp. Nov.: a chemolithotrophic nitrite-oxidising bacterium. Arch. Microbiol. 144: 1-7",
+      "_id": "69734f98577b92b45b47c161"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "PAO": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.67.11.5273-5284.2001",
+      "pmID": "11679356",
+      "title": "In situ characterization of Nitrospira-like nitrite-oxidizing bacteria active in wastewater treatment plants"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1099/ijs.0.65379-0",
+      "pmID": "18175716",
+      "title": "Physiological and phylogenetic characterization of a novel lithoautotrophic nitrite-oxidizing bacterium, &#39;Candidatus Nitrospira bockiana&#39;"
+     },
+     {
+      "doi": "10.1111/j.1574-6941.2010.01006.x",
+      "pmID": "21138449",
+      "title": "Isolation and characterization of a moderately thermophilic nitrite-oxidizing bacterium from a geothermal spring"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Watson, S.W., Bock, E., Valois, F.W., Waterbury, J.B., Schlosser, U. (1986) Nitrospira marina gen. Nov. Sp. Nov.: a chemolithotrophic nitrite-oxidising bacterium. Arch. Microbiol. 144: 1-7",
+      "_id": "69734f98577b92b45b47c166"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "GAO": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.67.11.5273-5284.2001",
+      "pmID": "11679356",
+      "title": "In situ characterization of Nitrospira-like nitrite-oxidizing bacteria active in wastewater treatment plants"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1099/ijs.0.65379-0",
+      "pmID": "18175716",
+      "title": "Physiological and phylogenetic characterization of a novel lithoautotrophic nitrite-oxidizing bacterium, &#39;Candidatus Nitrospira bockiana&#39;"
+     },
+     {
+      "doi": "10.1111/j.1574-6941.2010.01006.x",
+      "pmID": "21138449",
+      "title": "Isolation and characterization of a moderately thermophilic nitrite-oxidizing bacterium from a geothermal spring"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Watson, S.W., Bock, E., Valois, F.W., Waterbury, J.B., Schlosser, U. (1986) Nitrospira marina gen. Nov. Sp. Nov.: a chemolithotrophic nitrite-oxidising bacterium. Arch. Microbiol. 144: 1-7",
+      "_id": "69734f98577b92b45b47c16b"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Nitrite reduction": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1073/pnas.1003860107",
+      "pmID": "20624973",
+      "title": "A Nitrospira metagenome illuminates the physiology and evolution of globally important nitrite-oxidizing bacteria"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Sulfate reduction": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Fermentation": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Variable",
+    "pubMedCitations": [],
+    "standardCitations": [
+     {
+      "content": "Latocheski, E.C., da Rocha, M.C.V. & Braga, M.C.B. Nitrospira in wastewater treatment: applications, opportunities and research gaps. Rev Environ Sci Biotechnol 21, 905\u2013930 (2022). https://doi.org/10.1007/s11157-022-09634-z",
+      "_id": "69734f98577b92b45b47c16d"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Acetogen": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Methanogen": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Short-chain fatty acids": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.67.11.5273-5284.2001",
+      "pmID": "11679356",
+      "title": "In situ characterization of Nitrospira-like nitrite-oxidizing bacteria active in wastewater treatment plants"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1073/pnas.1003860107",
+      "pmID": "20624973",
+      "title": "A Nitrospira metagenome illuminates the physiology and evolution of globally important nitrite-oxidizing bacteria"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Sugars": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Proteins/amino acids": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Positive",
+    "pubMedCitations": [
+     {
+      "doi": "10.1073/pnas.1003860107",
+      "pmID": "20624973",
+      "title": "A Nitrospira metagenome illuminates the physiology and evolution of globally important nitrite-oxidizing bacteria"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  }
+ },
+ "properties": {
+  "Filamentous": {
+   "In situ": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1128/AEM.67.11.5273-5284.2001",
+      "pmID": "11679356",
+      "title": "In situ characterization of Nitrospira-like nitrite-oxidizing bacteria active in wastewater treatment plants"
+     }
+    ],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Negative",
+    "pubMedCitations": [
+     {
+      "doi": "10.1007/BF02568729",
+      "pmID": "7646315",
+      "title": "A new obligately chemolithoautotrophic, nitrite-oxidizing bacterium, Nitrospira moscoviensis sp. nov. and its phylogenetic relationship"
+     },
+     {
+      "doi": "10.1099/ijs.0.65379-0",
+      "pmID": "18175716",
+      "title": "Physiological and phylogenetic characterization of a novel lithoautotrophic nitrite-oxidizing bacterium, &#39;Candidatus Nitrospira bockiana&#39;"
+     }
+    ],
+    "standardCitations": [
+     {
+      "content": "Watson, S.W., Bock, E., Valois, F.W., Waterbury, J.B., Schlosser, U. (1986) Nitrospira marina gen. Nov. Sp. Nov.: a chemolithotrophic nitrite-oxidising bacterium. Arch. Microbiol. 144: 1-7",
+      "_id": "69734f98577b92b45b47c175"
+     }
+    ],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  },
+  "Hydrophobic cell surface": {
+   "In situ": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   },
+   "Other": {
+    "value": "Not Assessed",
+    "pubMedCitations": [],
+    "standardCitations": [],
+    "urlCitations": [],
+    "ncbiTaxCitations": []
+   }
+  }
+ }
+}
