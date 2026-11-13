@@ -7,10 +7,12 @@
 #     "xlsxwriter>=3.1",
 #     "bacdive>=2.0",
 #     "requests>=2.31",
+#     "enzyme-searcher @ git+https://github.com/antoniojh10/enzyme-searcher",
 # ]
 # ///
-# enzyme_searcher itself is loaded from this repository (see the first cell), not installed:
-# the notebook works the same with `marimo edit`, `marimo edit --sandbox` and on molab.
+# On molab (and with `marimo edit --sandbox`) enzyme_searcher is installed from GitHub.
+# When the notebook sits inside a clone of the repository, the first cell imports that local
+# copy instead, so local edits are used without pushing them.
 # Keep these dependencies in sync with pyproject.toml (tests/test_notebook.py checks it).
 
 import marimo
@@ -29,12 +31,26 @@ def _():
     import marimo as mo
     import pandas as pd
 
-    # Use the enzyme_searcher package that sits next to this notebook in the repository
-    # (local clone or molab), so nothing has to be downloaded from GitHub.
+    # 1. Inside a clone of the repository: import the local copy (local edits win).
     _repo = (mo.notebook_dir() or Path.cwd()).resolve().parent
     if (_repo / "enzyme_searcher" / "__init__.py").exists() and str(_repo) not in sys.path:
         sys.path.insert(0, str(_repo))
-    import enzyme_searcher as es
+    # 2. Otherwise (molab, a copied notebook): use the installed package, installing it from
+    #    GitHub if needed. It is not on PyPI, so marimo's automatic installer cannot find it.
+    try:
+        import enzyme_searcher as es
+    except ModuleNotFoundError:
+        import importlib
+        import shutil
+        import subprocess
+
+        _source = "git+https://github.com/antoniojh10/enzyme-searcher"
+        _uv = shutil.which("uv")
+        _cmd = ([_uv, "pip", "install", "--python", sys.executable, _source] if _uv
+                else [sys.executable, "-m", "pip", "install", _source])
+        subprocess.run(_cmd, check=True, capture_output=True)
+        importlib.invalidate_caches()
+        import enzyme_searcher as es
     return alt, es, io, mo, pd
 
 

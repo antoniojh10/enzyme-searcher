@@ -25,7 +25,9 @@ For BRENDA, add `BRENDA_USER`/`BRENDA_PASS` (or `BRENDA_JSON`) to the notebook's
 
 ## Run locally
 
-The notebook loads `enzyme_searcher` from this repository (no install from GitHub), so any of these work:
+Inside a clone, the notebook imports the local `enzyme_searcher` (your edits are used without
+pushing). On molab, or when the notebook is copied elsewhere, it installs the package from GitHub
+(it is not on PyPI). Any of these work:
 
 ```bash
 uv sync

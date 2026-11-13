@@ -58,8 +58,7 @@ def _names(requirements):
 
 
 def test_notebook_header_matches_package_dependencies():
-    """The notebook loads enzyme_searcher from the repo, so its PEP 723 header must list the
-    package's own dependencies (sandbox mode and molab install only what the header declares)."""
+    """Sandbox mode and molab install only what the PEP 723 header declares."""
     import re
     import tomllib
     header = re.search(r"^# /// script\n(.*?)^# ///$", NOTEBOOK.read_text(), re.S | re.M).group(1)
@@ -67,4 +66,5 @@ def test_notebook_header_matches_package_dependencies():
     project = tomllib.loads((NOTEBOOK.parent.parent / "pyproject.toml").read_text())["project"]
     declared = _names(script["dependencies"])
     assert _names(project["dependencies"]) <= declared
-    assert not any("git+" in d for d in script["dependencies"])  # never fetch the package from GitHub
+    # molab only gets the notebook file, so the package itself must come from the repository
+    assert "enzyme-searcher @ git+https://github.com/antoniojh10/enzyme-searcher" in script["dependencies"]
